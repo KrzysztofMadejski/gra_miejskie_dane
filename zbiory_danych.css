@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+}
+
+.dataset {
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 1.4;
+    position: absolute;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.target-group {
+    position: fixed;
+    bottom: 100px;
+    left: 250px;
+    font-size: 23px;
+}
+
+.target-group span {
+    font-weight: bold;
+}
+
+.btn-danger {
+    font-size: 23px;
+}
